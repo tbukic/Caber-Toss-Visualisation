@@ -1,4 +1,4 @@
-# Caber Toss Visualisation
+# [UNFINISHED] Caber Toss Visualisation
 
 This project is extension of work on my collage subject *Seminar 2*, were he had to model some real life problem, code it, and write paper analysing solutions.
 Everything in `./caber` folder is result of that work, missing only main function which simulated caber toss for many starting conditions.
